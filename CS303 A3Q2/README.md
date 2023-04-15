@@ -18,3 +18,7 @@ When run, a while loop begins.  The queue is presented to the user as though it 
 
 An example is shown below: 
 
+
+![Screenshot (49)](https://user-images.githubusercontent.com/98354701/232258797-9bde7b60-3fa7-4d31-b108-4d489afae649.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/98354701/232258798-81f0a7a6-3ef7-44e1-bf12-597dd7c361f1.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/98354701/232258799-4220c4e2-a7e1-4cfb-9b71-bb6c5aebe15d.png)
